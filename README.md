@@ -53,7 +53,4 @@ JavaScript – interactivity and event handling
 
 Bhumika Upadyay
 
-
-
-hyay
 Frontend Developer | React Enthusias# CodeAlpha_image-gallery
