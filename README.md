@@ -31,19 +31,6 @@ CSS3 – styling and responsiveness
 
 JavaScript – interactivity and event handling
 
-
-
----
-
-📂 Folder Structure
-
-LightboxGallery/
-│
-├── index.html
-├── style.css
-└── script.js
-
-
 ---
 
 📸 How It Works
